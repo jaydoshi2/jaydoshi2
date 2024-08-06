@@ -66,3 +66,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaydoshi2&show_icons=true&locale=en" alt="jaydoshi2" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaydoshi2&" alt="jaydoshi2" /></p>
+<p align="center">
+<img src="https://thoughtoverdesign.com/wp-content/uploads/2017/12/cf_section1_top-1.gif"/>
+</p>
