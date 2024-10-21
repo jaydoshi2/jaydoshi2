@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I'm currently learning **MERN Stack Development**
+- 🌱 I'm currently learning **Web development and Machine Learning**
 - 📝 I regularly write articles on [Quora](https://www.quora.com/profile/Jay-Doshi-154)
 - 💬 Ask me anything about **the tech stack mentioned below**
 - 📫 Reach me at **workingjay2010@gmail.com**
