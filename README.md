@@ -6,7 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaydoshi2&label=Profile%20views&color=0e75b6&style=flat" alt="jaydoshi2" />
   <img src="https://img.shields.io/github/followers/jaydoshi2?label=Followers&style=social" alt="followers" />
 </p>
 
