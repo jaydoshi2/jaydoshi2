@@ -15,7 +15,7 @@
 - 📝 I regularly write articles on [Quora](https://www.quora.com/profile/Jay-Doshi-154)
 - 💬 Ask me anything about **the tech stack mentioned below**
 - 📫 Reach me at **workingjay2010@gmail.com**
-- 📄 Check out my [Resume](https://workingjay2010.hackerresume.io/846e2845-9c2e-4c93-9ac3-054c7b35cc55)
+- 📄 Check out my [Resume](file:///C:/Users/admin/Downloads/Jay's%20Resume%20(3)%20(1).pdf)
 - ⚡ Extra Interests: **Finance, Marketing, Sales and Management**
 
 ## 🛠️ Tech Stack
