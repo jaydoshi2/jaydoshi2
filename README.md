@@ -59,5 +59,5 @@
 </p>
 
 <p align="center">
-  <img src="https://thoughtoverdesign.com/wp-content/uploads/2017/12/cf_section1_top-1.gif" alt="Footer GIF" width="100%" />
+  <img src="https://thoughtoverdesign.com/wp-content/uploads/2017/12/cf_section1_top-1.gif" alt="Footer GIF" width="50%" />
 </p>
