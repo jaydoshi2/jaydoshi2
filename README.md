@@ -52,8 +52,8 @@
 ## 🤝 Connect with me
 
 <p align="center">
-  <a href="https://linkedin.com/in/jay-doshi" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jay-doshi" /></a>
-  <a href="https://twitter.com/jaydoshi" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="jaydoshi" /></a>
+  <a href="https://www.linkedin.com/in/jay-doshi-812662262/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="jay-doshi" /></a>
+  <a href="https://twitter.com/doshijay838" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="jaydoshi" /></a>
   <a href="https://stackoverflow.com/users/jay-devesh-doshi" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="jay-devesh-doshi" /></a>
   <a href="https://instagram.com/jay._.doshi2010" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="jay._.doshi2010" /></a>
 </p>
